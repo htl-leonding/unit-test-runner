@@ -5,7 +5,9 @@ How to emulate
 * keyboard inputs with Scanner and
 * console output with println/print/print
 
+How to start junit-tests from Java
 
+* not yet implemented -> https://www.baeldung.com/junit-tests-run-programmatically-from-java
 
 .create statement for maven
 ----
