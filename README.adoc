@@ -1,0 +1,17 @@
+= unit-test-runner
+
+How to emulate
+
+* keyboard inputs with Scanner and
+* console output with println/print/print
+
+
+
+.create statement for maven
+----
+mvn archetype:generate \
+          -DgroupId=at.htl.runner \
+          -DartifactId=unit-test-runner \
+          -DarchetypeArtifactId=maven-archetype-quickstart \
+          -DinteractiveMode=false
+----
