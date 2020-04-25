@@ -1,13 +1,20 @@
 = unit-test-runner
 
+== Emulating System.in and System.out for testing
+
 How to emulate
 
 * keyboard inputs with Scanner and
 * console output with println/print/print
 
-How to start junit-tests from Java
+== How to start junit-tests from Java
 
 * not yet implemented -> https://www.baeldung.com/junit-tests-run-programmatically-from-java
+
+* Another alternative could be, starting the tests from command line +
+-> https://javabydeveloper.com/junit-5-consolelauncher-options-examples/[Junit 5 ConsoleLauncher]
+
+== Creation of this project
 
 .create statement for maven
 ----
